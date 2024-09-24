@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "158348524257",
+    "project_id": "xianinfotech-b0217",
+    "storage_bucket": "xianinfotech-b0217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158348524257:android:77d7f50920d6552cb5d5a0",
+        "android_client_info": {
+          "package_name": "com.example.xianinfotech_interview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVGl78GgW2CmiZpkYk2Uf9NAu8eRXo25Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158348524257:android:a3305b67a189c131b5d5a0",
+        "android_client_info": {
+          "package_name": "com.xi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVGl78GgW2CmiZpkYk2Uf9NAu8eRXo25Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
